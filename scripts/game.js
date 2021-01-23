@@ -4,9 +4,9 @@ let vh = window.innerHeight;
 const rows = Math.floor(vh / 25);
 const cols = Math.floor(vw / 20);
 
-let started=false;
+let started = false;
 let timer;
-let evolutionSpeed=200;
+let evolutionSpeed = 200;
 
 let currGen =[rows];
 let nextGen =[rows];
