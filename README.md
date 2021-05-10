@@ -3,7 +3,7 @@
 
 [Live Demo](https://conways-game-of-life-js.vercel.app)
 
-![Git Image](gitimage.png)
+![Git Image](./gitimage.PNG)
 
 You can change speed of simulation by editing scripts/game.js
 ```javascript
